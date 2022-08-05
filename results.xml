@@ -4,7 +4,7 @@
 </testcase>
 <testcase name="complete a todo item" classname="[chromium] › add.spec.js:29:1 › complete a todo item" time="1.367">
 </testcase>
-</testsuite>
+</testsuite> 
 <testsuite name="example.spec.js" timestamp="1659362481417" hostname="" tests="1" failures="0" skipped="0" time="2.062" errors="0">
 <testcase name="homepage has Playwright in title and get started link linking to the intro page" classname="[chromium] › example.spec.js:4:1 › homepage has Playwright in title and get started link linking to the intro page" time="2.062">
 </testcase>
